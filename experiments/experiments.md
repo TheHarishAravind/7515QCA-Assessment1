@@ -20,7 +20,7 @@ Using a Light Sensor & Analog Inputs
 
 (Figure 2: With light source - Microbit displays Sun)
 
-<video src="photoresistorv.mp4" width="320" height="200" controls preload></video>
+<video src="photoresistorv.mp4" width="640" height="480" controls preload></video>
 
 (Figure 3: Microbit displaying symbol according to lightsource)
 
@@ -39,7 +39,11 @@ In the code below, replace imagemissing.jpg with the name of the image, which sh
 
 ![Image](potentiometer.png)
 
-(Figure 4)
+(Figure 4: Changing potentiometer to alter the brightness of LED)
+
+<video src="potentiometerv.mp4" width="640" height="480" controls preload></video>
+
+(Figure 5: The sensitivity of the potentiometer can be seen in the video)
 
 #### Reflection ####
 
@@ -56,7 +60,11 @@ In the code below, replace imagemissing.jpg with the name of the image, which sh
 
 ![Image](accelerometer.png)
 
-(Insert a caption here)
+(Figure 6: Microbit has an inbuilt accelerometer that helps in providing input for the fan)
+
+<video src="accelerometerv.mp4" width="640" height="480" controls preload></video>
+
+(Figure 7: The fan will move in when the MicroBit is moved along Y plane)
 
 #### Reflection ####
 
@@ -73,7 +81,11 @@ In the code below, replace imagemissing.jpg with the name of the image, which sh
 
 ![Image](piezo.png)
 
-(Insert a caption here)
+(Figure 8: Piezo buzzer plays monotone music)
+
+<video src="piezov.mp4" width="640" height="480" controls preload></video>
+
+(Figure 9: Piezo can programmed to play any 8-bit music)
 
 #### Reflection ####
 
@@ -90,7 +102,11 @@ In the code below, replace imagemissing.jpg with the name of the image, which sh
 
 ![Image](windpower.png)
 
-(Figure 1: Gauging wind power with microbit)
+(Figure 10: Gauging wind power with microbit)
+
+<video src="windpowerv.mp4" width="640" height="480" controls preload></video>
+
+(Figure 11: Blowing into the fan would and pressing Button A would show the speed of the fan)
 
 #### Reflection ####
 
