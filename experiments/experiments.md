@@ -84,7 +84,7 @@ In the code below, replace imagemissing.jpg with the name of the image, which sh
 
 ![Image](windpower.png)
 
-(Insert a caption here)
+Figure 1: Gauging wind power with microbit
 
 #### Reflection ####
 
