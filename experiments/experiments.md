@@ -48,7 +48,7 @@ Using the accelerometer to control motor speed
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](accelrometer.png)
+![Image](accelerometer.png)
 
 (Insert a caption here)
 
