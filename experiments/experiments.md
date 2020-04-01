@@ -13,7 +13,8 @@ Using a Light Sensor & Analog Inputs
 #### Photo of completed project ####
 *In the code below, replace `missingimage.png` with the name of the image, which should be in the `kitexperiments` folder.*
 
-![Image](missingimage.png)
+![Image](photoresistor1.jpeg)
+![Image](photoresistor2.jpeg)
 
 (Insert a caption here)
 
