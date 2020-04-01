@@ -8,7 +8,7 @@
 
 ### Experiment name ###
 
-(Using a Light Sensor & Analog Inputs)
+#Using a Light Sensor & Analog Inputs
 
 #### Photo of completed project ####
 *In the code below, replace `missingimage.png` with the name of the image, which should be in the `kitexperiments` folder.*
@@ -25,7 +25,7 @@ This experiment could be the basis of a real world application such as a light s
 
 ### Experiment name ###
 
-(Dimming an LED using a Potentiometer)
+Dimming an LED using a Potentiometer
 
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
