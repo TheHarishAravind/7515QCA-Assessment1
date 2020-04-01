@@ -13,7 +13,7 @@ Using a Light Sensor & Analog Inputs
 #### Photo of completed project ####
 *In the code below, replace `missingimage.png` with the name of the image, which should be in the `kitexperiments` folder.*
 
-![Image](piezo.png)
+![Image](photoresistor1.png)
 ![Image](photoresistor2.png)
 
 (Insert a caption here)
@@ -31,7 +31,7 @@ Dimming an LED using a Potentiometer
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+![Image](potentiometer.png)
 
 (Insert a caption here)
 
@@ -48,7 +48,7 @@ Using the accelerometer to control motor speed
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+![Image](accelerometer.png)
 
 (Insert a caption here)
 
@@ -65,7 +65,7 @@ Setting the tone with a Piezo Buzzer
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+![Image](piezo.png)
 
 (Insert a caption here)
 
@@ -82,9 +82,9 @@ Wind Power
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+![Image](windpower.png)
 
-(Insert a caption here)
+(Figure 1: Gauging wind power with microbit)
 
 #### Reflection ####
 
