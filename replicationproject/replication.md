@@ -59,11 +59,20 @@ Having developed a project that shows the speed of a moving objects, especially 
 
 *What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
 
+Microinteractions is not a stranger me, but the examples quoted in teh first chapter made me understand that I don't have the best grasp of microinteraction
+
 *What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+
+Microinteractions are vital for the functionality of product. The small meaningful actions impact how the product is used, utilised and thought about. Microinteractions have the ability to break or make a product/software.
 
 *What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
 
+I would like to see what are the Microinteractions of some objects we use in day-to-day life but don't realise it.
+I would also like a more visual difference between signifiers and microinteractions
+
 *How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
+
+Microinteraction has a direct relation to my project in terms where how my project suggests such and such behaviour to 
 
 ### Reading: Scott Sullivan, Prototyping Interactive Objects ###
 
