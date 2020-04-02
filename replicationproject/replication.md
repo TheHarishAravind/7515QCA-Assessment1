@@ -72,7 +72,7 @@ I would also like a more visual difference between signifiers and microinteracti
 
 *How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
 
-Microinteraction has a direct relation to my project in terms where how my project suggests such and such behaviour to 
+Microinteraction has a direct relation to my project in terms where how my project suggests such and such behaviour. 
 
 ### Reading: Scott Sullivan, Prototyping Interactive Objects ###
 
