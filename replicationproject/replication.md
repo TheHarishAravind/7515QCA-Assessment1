@@ -4,7 +4,6 @@
 Timing Gates using MicroBit
 
 ## Related projects ##
-*Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the* `replicationproject` *folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing, updating the number* `1` *in the subtitle for each.*
 
 ### Related project 1 ###
 Worlds Greatest Marble Race
@@ -94,45 +93,75 @@ Getting to the final design took quite a bit thought. I did not want to have a w
 
 ![Image](materialsused.png)
 
-*This should have quite a lot of information!*
+Materials Used
+1. Cardboard
+2. Thread
+3. Cellophane tape
+4. Double-sided tape
+5. Padding sponge
+6. Wooden sticks from table-mat
+7. Old paper
 
-*There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. Use the code below to include images, and copy it for each image, updating the information for each.*
+Having decided not to buy any thing extra for my project, I decided to go with the above mentioned items to build my prototype. 
+I started with a basic stand for the barrel part the hamster wheel. I initially built it with the wooden sticks but they were unbalanced and it was quite hard to hoist surfaces required for the functioning of the project. While the sticks were sturdy enough, they were too rigid. The sticks were perfect for the spindle of the barrel. Building a short cross shaped structure with thread and some cellotape perpendicular to long sticks, I was able to build a spindle strong enough to hold the barrel without tipping or sagging. 
 
-![Image](missingimage.png)
+The barrel was built using cutouts from strong cardboard boxes. The frame though is all cardboard has mulitple parts that were put together to allow the aluminium foil contacts to be right below the barrel without scraping against the barrel. It was also build such that the battery could be housed inside the frame without being a distraction.
 
-*Include screenshots of the code you have used.*
+![Image](proto2stand.png) ![Image](puttingtogether.png)
+
+
+![Image](betaprototest.png)
+
+The circuit required only 3 volts of power which was supplied through 2 AAA batteries. 
 
 ## Project outcome ##
 
-*Complete the following information.*
-
 ### Project title ###
+
+Hamster Clock
 
 ### Project description ###
 
-*In a few sentences, describe what the project is and does, who it is for, and a typical use case.*
-
+Hamster clock is a device that can be used to find the speed at which your Hamster's hamster wheel is spinning. It is just a fun way to see how athletic your hamster is
 ### Showcase image ###
 
-*Try to capture the image as if it were in a portfolio, sales material, or project proposal. The project isn't likely to be something that finished, but practice making images that capture the project in that style.*
-
-![Image](missingimage.png)
+![Image](betaprotoback.png) ![Image](betaprotoside.png) ![Image](betaprotofront.png) ![Image](betaprotobottom.png) 
 
 ### Additional view ###
 
-*Provide some other image that gives a viewer a different perspective on the project such as more about how it functions, the project in use, or something else.*
-
-![Image](missingimage.png)
+![Image](betaprotoback.png) ![Image](betaprotoside.png) ![Image](betaprotofront.png)
 
 ### Reflection ###
 
 *Describe the parts of your project you felt were most successful and the parts that could have done with improvement, whether in terms of outcome, process, or understanding.*
 
+The most successful part about this whole exercise is that I learnt the process, time and effort it takes to go through prototypes. The number of challenges that pop-up regardless of its size doubles for every prototype I did. The part that I feel could have been better was how I could have planned this from the perspective of visuals also. I went for a barebones look which I desperatel tried to hide with some random objects but was rather unsuccessful at that. I also feel that I could have built it a bit bigger. 
+
+The whole prototype works. It does what it was intended to, but the parameters, limitations, affordances, signifiers have not been explored yet. Structural integrity, basic skeleton, and functional profeciency was the major focus throughout this experiment. 
+
+Asking opinions about this to my housemates and girlfriend, they were not too impressed with it but loved my idea of making this hamster wheel into a roulette table of some sorts so that we all can play. This also showed me that human interactions often takes the precedence in building toys or fun things like this. 
 
 *What techniques, approaches, skills, or information did you find useful from other sources (such as the related projects you identified earlier)?*
 
+Having learnt about the need to document our process, I tried to be conscious of recording what I did. I started out well but I lost track and thought realized I had missed documenting the first few days of effort. 
+Wanting to be original about this, I tried be not influenced by other models that might use the same concept and application. I tried to be as original as possible in terms of design and execution. 
+I had to force myself to let go of the flat structure that had occupied my mind. Arriving at the wheel based form took some thinking, though it might not be the best execution.
 
 *What ideas have you read, heard, or seen that informed your thinking on this project? (Provide references.)*
+My research on timing gates and other simimlar concepts did not throw many hamster wheel projects. But there where a few possibilities where the timing gates and could have been used in a different form.
+
+The roulette idea and using a part of the timing gate concept for a roulette wheel was fascinating. Multiple timing gates could simply be used to denote differnt parts of the roulette board. Since the cicuit needs specific amount of contact, the speed of spinning could decide a winner
+Link: https://www.youtube.com/watch?v=mza4Sre9LHM
+
+The reaction time game that also used MicroBit is another dimension of how the timing gates can be used as a game 
+Link: https://www.youtube.com/watch?v=DgJ-S0q0EMs
+
+There were also many very simple, quick methods to do hamster wheel. Example: 
+Link: https://www.youtube.com/watch?v=ZeuJ66PWsks
 
 
 *What might be an interesting extension of this project? In what other contexts might this project be used?*
+
+I would like to see a human sized hamster wheel and people competing over who's the fastest. Another fun radical idea from this project would to create a speed activated rolling door prank. Unless people rotate the door at a certain speed before entering, the door wouldn't open. This project can also be used to create diy windmills that show speed. 
+
+A simple homemade speedometer for bicycle is another application of timing gates. 
