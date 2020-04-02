@@ -114,6 +114,13 @@ The barrel was built using cutouts from strong cardboard boxes. The frame though
 
 The circuit required only 3 volts of power which was supplied through 2 AAA batteries. 
 
+##### Code #####
+
+The code for this project was written using MicroBit Make Code Blocks interface. When the Pin 0 of MicroBit reads an input, the timestamp is stored as t0. It also displays a symbol on the MicroBit LED screen. When Pin 1 reads an input, the corresponding timestamp is stored as t1. Then the speed is c calculated using the formula (t1-t0). Then the result is displayed on the LED screen.
+
+![Image](code.png) 
+
+
 ## Project outcome ##
 
 ### Project title ###
@@ -125,7 +132,7 @@ Hamster Clock
 Hamster clock is a device that can be used to find the speed at which your Hamster's hamster wheel is spinning. It is just a fun way to see how athletic your hamster is
 ### Showcase image ###
 
-![Image](betaprotoback.png) ![Image](betaprotoside.png) ![Image](betaprotofront.png) ![Image](betaprotobottom.png) 
+![Image](betaprotobottom.png) 
 
 ### Additional view ###
 
