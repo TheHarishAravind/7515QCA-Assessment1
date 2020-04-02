@@ -1,11 +1,5 @@
 # Inventor Kit Experiments
 
-*Markdown reference: https://guides.github.com/features/mastering-markdown/*
-
-## Instructions ##
-
-*For a selection of 5 inventor kit experiments that you choose, fill out the following sections.
-
 ### Experiment name ###
 
 Using a Light Sensor & Analog Inputs
@@ -35,7 +29,6 @@ This experiment could be the basis of a real world application such as a light s
 Dimming an LED using a Potentiometer
 
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
 ![Image](potentiometer.png)
 
@@ -56,7 +49,6 @@ This experiment could be the basis of a real world application such as a mood li
 Using the accelerometer to control motor speed
 
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
 ![Image](accelerometer.png)
 
@@ -77,7 +69,6 @@ This experiment could be the basis of a real world application like a toy where 
 Setting the tone with a Piezo Buzzer
 
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
 ![Image](piezo.png)
 
@@ -98,7 +89,6 @@ This experiment could be the basis of a real world application such as a audio s
 Wind Power
 
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
 ![Image](windpower.png)
 
