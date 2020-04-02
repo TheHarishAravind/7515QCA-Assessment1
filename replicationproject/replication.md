@@ -1,23 +1,37 @@
 # Assessment 1: Replication project
 
-*Fill out the following workbook with information relevant to your project.*
-
-*Markdown reference:* [https://guides.github.com/features/mastering-markdown/](http://guides.github.com/features/mastering-markdown/)
-
 ## Replication project choice ##
-(Insert the name of the project you chose to replicate.)
+Timing Gates using MicroBit
 
 ## Related projects ##
 *Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the* `replicationproject` *folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing, updating the number* `1` *in the subtitle for each.*
 
 ### Related project 1 ###
-(Insert name of project)
+(Worlds Greatest Marble Race)
 
-(Insert URL to project)
+(https://www.instagram.com/p/B-RAepFn2P7/)
 
 ![Image](missingimage.png)
 
-This project is related to mine because (insert reasons here).
+This project is related to mine because my Prototype 1 and this marble race set up are very similar. I wanted to use a aluminium foil ball to trigger the timing gates, and the same principle can be applied here too. Probably an LDR or a motions sensing set up for the race will be more efficient.
+
+### Related project 2 ###
+(A speedometer for hamsters)
+
+(http://www.yoctopuce.com/EN/article/a-speedometer-for-hamsters
+
+![Image](missingimage.png)
+
+This project is related to mine because the project uses a reed switch and magnets to measure the speed while my project uses timing gates. 
+
+### Related project 3 ###
+(Homemade pinball)
+
+(https://www.youtube.com/watch?v=kLyXSEzyotY)
+
+![Image](missingimage.png)
+
+This project is related to mine as this could be one of the potential gamified applications of the timing gates. While the timing aspect of the gates need not be necessary, the timing gates could be used as a switch and made to initiate various parts of the pinball machine.
 
 ## Reading reflections ##
 *Reflective reading is an important part of actually making your reading worthwhile. Don't just read the words to understand what they say: read to see how the ideas in the text fit with and potentially change your existing knowledge and maybe even conceptual frameworks. We assume you can basically figure out what the readings mean, but the more important process is to understand how that changes what you think, particularly in the context of your project.*
@@ -63,6 +77,9 @@ This project is related to mine because (insert reasons here).
 ## Process documentation
 
 *In this section, include text and images that represent the development of your project including sources you've found (URLs and written references), choices you've made, sketches you've done, iterations completed, materials you've investigated, and code samples. Use the markdown reference for help in formatting the material.*
+
+![Image](missingimage.png)
+
 
 *This should have quite a lot of information!*
 
