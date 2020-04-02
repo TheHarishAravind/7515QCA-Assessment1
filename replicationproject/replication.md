@@ -41,11 +41,19 @@ This project is related to mine as this could be one of the potential gamified a
 
 *What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
 
+I did not count feedback to be one of the important parameters when we design. I was aware of affordances and signifiers, but feedback was not in my sight.
+
 *What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+
+Feedback seems like a very obvious concept but I never have thought about this from such perspective. I often complain about lag and latency in videogames and videostreams, but this latency in products and designs responding to us has never struck me as a problem, partly because of my cultural conditioning I guess. I am thought to adjust rather than question back, now I feel feedback is more than a design concept. I am beginning to think how many oppurtuities and design problems I have walked past because I was okay with minimal or no feedback. 
 
 *What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
 
+I would love to know about how cultural differences influence these design choices. How westernized are the conceptual models for electronic household items?
+
 *How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
+
+Having developed a project that shows the speed of a moving objects, especially the speed of a Hamster, how do I make the hamster realize it is going way too fast for its own good? Do I flash some light, or sound an alarm? Would the hamster take into account this feedback at the moment? These would be the questions I have to ask myself If I am to design a project that will involve physical fatigue and physical activity.  
 
 ### Reading: Chapter 1 of Dan Saffer, Microinteractions: Designing with Details, Chapter 1 ###
 
@@ -61,12 +69,22 @@ This project is related to mine as this could be one of the potential gamified a
 
 *What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
 
+I never thought people would get scared at the sensors they had in that store. I felt weird, but in retrospect that is a very accidental signifier and it is truly a real and practical problem.
+
 *What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+
+My perspective about art and technology has changed so much. How people perceive artists and art has changed so much. I am not able to decipher if Scott thought he was doing art, but I think he does. The energy and accomplishment he does despite the very minimally significant action shows how tech is not farfetched thing anymore. Now the line between tech and art is becoming such a blur that I would try to equate Scott's achievements to that of how a painter would feel at the end of a painting. The feelingm that you've created something is an artist's joy. 
+
+And after looking at this, I want to get into arduino as well. 
+
 
 *What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
 
+I would love to know where to start to get into arduino. I've seen many lego creations with arduino, would that be a good place to begin with?
+
 *How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
 
+Here Scott feverishly tells us about the emotions and processes that were involved in his prototyping method. From buying sensors that did more than motion sensing to finding a purpose to use the tech is all a lesson in prototyping. I found this refreshingly useful as it details the hardships of how his project scaled up and how he managed it all.
 
 ## Interaction flowchart ##
 
