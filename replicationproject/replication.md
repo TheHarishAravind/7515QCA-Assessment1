@@ -81,12 +81,15 @@ The timing gates by itself was a very simple and self explanatory project. It ha
 ##### Prototype 1 - (Not) Blown away #####
 Favouring the fun side of games and toys, I made a simple toy using a styrofoam and some aluminium foil. With a foil ball on the valley of the styrofoam, the goal was that two people blow the ball from either side so as to make the ball reach either side and score a goal. The aluminium ball would have to complete the circuit and display the notification on the LED. While I proceeded to make it into a a game with gates on each side like goals, I decided to drop the whole idea in the hopes of making a better product. While the initial prototype worked, it's form was short lived.
 
-![Image](proto1materials.png) ![Image](proto1mb.png) ![Image](proto2.png) 
+![Image](proto1materials.png) 
+![Image](proto1mb.png) 
+![Image](proto2.png) 
 
 ##### Prototype 2 - Hamster Clock #####
 While I did not want to use the same linear method of using a car and a flat track, I wanted to change the structure that can be made into something fun. A hamster wheel was one of the few ideas I had to implement this. With 3D printing being one of my go to tools for prototyping, I had quite some difficulty in trying to design a hamster wheel given that my profeciency in 3D design wasn't that great. While I did get a model I wanted from Thingiverse,(https://www.thingiverse.com/thing:2703459) it did not feel original to do this and also I decided that it would be better to build something using cardboard at this stage.
 
-![Image](3dpprototype1.png) ![Image](3dpprototype2.png)
+![Image](3dpprototype1.png) 
+![Image](3dpprototype2.png)
 
 ##### Beta Prototype #####
 Getting to the final design took quite a bit thought. I did not want to have a wire attached to the appratus, not did I want to have a breadboard. So I had to strip it all off and just use some wires and aluminium strips as the conductors for the whole experiment. My aim was to make it as simple and as re-constructible as possible and also the current state did not allow me to get any more materials than I already had at home. 
@@ -107,9 +110,8 @@ I started with a basic stand for the barrel part the hamster wheel. I initially 
 
 The barrel was built using cutouts from strong cardboard boxes. The frame though is all cardboard has mulitple parts that were put together to allow the aluminium foil contacts to be right below the barrel without scraping against the barrel. It was also build such that the battery could be housed inside the frame without being a distraction.
 
-![Image](proto2stand.png) ![Image](puttingtogether.png)
-
-
+![Image](proto2stand.png) 
+![Image](puttingtogether.png)
 ![Image](betaprototest.png)
 
 The circuit required only 3 volts of power which was supplied through 2 AAA batteries. 
@@ -120,8 +122,9 @@ The code for this project was written using MicroBit Make Code Blocks interface.
 
 ![Image](code.png) 
 
-
 ## Project outcome ##
+
+https://youtu.be/CwswVV3VV8M
 
 ### Project title ###
 
@@ -134,9 +137,13 @@ Hamster clock is a device that can be used to find the speed at which your Hamst
 
 ![Image](betaprotobottom.png) 
 
+Explanation Video: https://youtu.be/FlIByP4fRYY
+
 ### Additional view ###
 
-![Image](betaprotoback.png) ![Image](betaprotoside.png) ![Image](betaprotofront.png)
+![Image](betaprotoback.png) 
+![Image](betaprotoside.png) 
+![Image](betaprotofront.png)
 
 ### Reflection ###
 
@@ -155,6 +162,7 @@ Wanting to be original about this, I tried be not influenced by other models tha
 I had to force myself to let go of the flat structure that had occupied my mind. Arriving at the wheel based form took some thinking, though it might not be the best execution.
 
 *What ideas have you read, heard, or seen that informed your thinking on this project? (Provide references.)*
+
 My research on timing gates and other simimlar concepts did not throw many hamster wheel projects. But there where a few possibilities where the timing gates and could have been used in a different form.
 
 The roulette idea and using a part of the timing gate concept for a roulette wheel was fascinating. Multiple timing gates could simply be used to denote differnt parts of the roulette board. Since the cicuit needs specific amount of contact, the speed of spinning could decide a winner
