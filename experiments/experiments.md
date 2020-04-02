@@ -41,7 +41,7 @@ In the code below, replace imagemissing.jpg with the name of the image, which sh
 
 (Figure 4: Changing potentiometer to alter the brightness of LED)
 
-<video src="potentiometervv.mp4" width="640" height="480" controls preload></video>
+<video src="potentiometerv.MP4" width="640" height="480" controls preload></video>
 
 (Figure 5: The sensitivity of the potentiometer can be seen in the video)
 
@@ -104,7 +104,7 @@ In the code below, replace imagemissing.jpg with the name of the image, which sh
 
 (Figure 10: Gauging wind power with microbit)
 
-<video src="windpowervv.mp4" width="640" height="480" controls preload></video>
+<video src="windpowerv.MP4" width="640" height="480" controls preload></video>
 
 (Figure 11: Blowing into the fan would and pressing Button A would show the speed of the fan)
 
