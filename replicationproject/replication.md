@@ -9,7 +9,7 @@ Timing Gates using MicroBit
 ### Related project 1 ###
 Worlds Greatest Marble Race
 
-(https://www.instagram.com/p/B-RAepFn2P7/)
+https://www.instagram.com/p/B-RAepFn2P7/
 
 ![Image](marblerace.png)
 
@@ -18,7 +18,7 @@ This project is related to mine because my Prototype 1 and this marble race set 
 ### Related project 2 ###
 A speedometer for hamsters
 
-(http://www.yoctopuce.com/EN/article/a-speedometer-for-hamsters
+http://www.yoctopuce.com/EN/article/a-speedometer-for-hamsters
 
 ![Image](hamsterspeedo.png)
 
@@ -27,7 +27,7 @@ This project is related to mine because the project uses a reed switch and magne
 ### Related project 3 ###
 Homemade pinball
 
-(https://www.youtube.com/watch?v=kLyXSEzyotY)
+https://www.youtube.com/watch?v=kLyXSEzyotY
 
 ![Image](pinball.png)
 
@@ -75,10 +75,24 @@ This project is related to mine as this could be one of the potential gamified a
 
 ## Process documentation
 
-*In this section, include text and images that represent the development of your project including sources you've found (URLs and written references), choices you've made, sketches you've done, iterations completed, materials you've investigated, and code samples. Use the markdown reference for help in formatting the material.*
+#### Thinking beyond the basics ####
 
-![Image](missingimage.png)
+The timing gates by itself was a very simple and self explanatory project. It had a simple mechanisim that just required for a circuit to be completed through contacts touching both the ground and the pin, the LEDs would light up. Most projects over the internet either had a car or some vehicle going over the timing gates. I wanted to go at least one step beyond the basic structure of the experiment with maximum original thought, design and development.
 
+##### Prototype 1 - (Not) Blown away #####
+Favouring the fun side of games and toys, I made a simple toy using a styrofoam and some aluminium foil. With a foil ball on the valley of the styrofoam, the goal was that two people blow the ball from either side so as to make the ball reach either side and score a goal. The aluminium ball would have to complete the circuit and display the notification on the LED. While I proceeded to make it into a a game with gates on each side like goals, I decided to drop the whole idea in the hopes of making a better product. While the initial prototype worked, it's form was short lived.
+
+![Image](proto1materials.png) ![Image](proto1mb.png) ![Image](proto2.png) 
+
+##### Prototype 2 - Hamster Clock #####
+While I did not want to use the same linear method of using a car and a flat track, I wanted to change the structure that can be made into something fun. A hamster wheel was one of the few ideas I had to implement this. With 3D printing being one of my go to tools for prototyping, I had quite some difficulty in trying to design a hamster wheel given that my profeciency in 3D design wasn't that great. While I did get a model I wanted from Thingiverse,(https://www.thingiverse.com/thing:2703459) it did not feel original to do this and also I decided that it would be better to build something using cardboard at this stage.
+
+![Image](3dpprototype1.png) ![Image](3dpprototype2.png)
+
+##### Beta Prototype #####
+Getting to the final design took quite a bit thought. I did not want to have a wire attached to the appratus, not did I want to have a breadboard. So I had to strip it all off and just use some wires and aluminium strips as the conductors for the whole experiment. My aim was to make it as simple and as re-constructible as possible and also the current state did not allow me to get any more materials than I already had at home. 
+
+![Image](materialsused.png)
 
 *This should have quite a lot of information!*
 
